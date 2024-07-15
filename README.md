@@ -1,5 +1,5 @@
 # UM Custom Directory Template
-Custom template for repositioning of "More Filters" to the left and "Sort by:" below the filters.
+Custom Directory template for repositioning of "More Filters" to the left and "Sort by:" below the filters.
 
 ## Updates ##
 None
