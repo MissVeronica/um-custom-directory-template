@@ -12,7 +12,7 @@
  */
 
 // Customized members.php 
-// Custom template for repositioning of "More Filters" to the left and "Sort by:" below the filters.
+// Customized template for repositioning of "More Filters" to the left and "Sort by:" below the filters.
 // Version 1.0
 // https://github.com/MissVeronica/um-custom-directory-template
 
